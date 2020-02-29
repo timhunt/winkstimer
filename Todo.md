@@ -2,6 +2,13 @@
 
 The features we aspire to:
 
+## Appiness
+
+* ✓ Create skeleton of the app
+* ✓ Add readme & todo
+* Add an icon
+* Add a splash screen
+
 ## Set up
 
 * Initial screen has buttons for 2, 3 and 4-player games (20, 22.5 or 25 minutes main time).
@@ -25,3 +32,4 @@ The features we aspire to:
 * Once time expiring has been acknowledged and the colour set, the display updates to show the remaining 5+ rounds for each player.
 * Touch screen at the end of each turn to tick them off.
 
+## Visual design
